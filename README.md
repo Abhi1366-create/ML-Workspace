@@ -1,2 +1,2 @@
 # ML-Workspace
-A collection of ML models I've trained—from classic algorithms to neural networks. Built as part of my interview prep and learning journey. Each model includes code, metrics, and notes. More models coming soon as I keep experimenting and improving.
+🚀 Network Security Mastermind: Breaking the $\mathbf{80\%}$ Ceiling with Deep LearningThis repository contains the final, high-performance solution for classifying network intrusion attacks ($\text{DoS}$, $\text{Probe}$, $\text{R2L}$, $\text{U2R}$) using the challenging $\text{NSL-KDD}$ dataset.The project successfully proved that Deep Learning was the only method capable of overcoming the severe data scarcity that crippled traditional algorithms.
